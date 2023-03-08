@@ -1,4 +1,2 @@
-#!bin/bash
-cd "$(dirname "$0")" || exit
-ABSPATH=$(readlink -f .)
-echo "$ABSPATH"
+#!/bin/bash
+pwd
