@@ -1,0 +1,6 @@
+#!/bin/bash
+# Magic file for detecting School data files
+0 string SCHOOL  School data file
+file -C -m school -o school.mgc
+file -m school.mgc <school_data_file>
+
