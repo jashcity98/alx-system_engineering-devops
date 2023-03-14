@@ -1,1 +1,1 @@
-Creates a script that converts a number from base 10 to base 16
+Writesa script that prints every other line from the input, starting with the first line
