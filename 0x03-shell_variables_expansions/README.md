@@ -1,1 +1,1 @@
-Writes a script that displays the result of BREATH to the power LOVE
+Creates a script that prints all possible combinations of two letters,except oo
