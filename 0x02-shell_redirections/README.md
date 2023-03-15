@@ -1,1 +1,1 @@
-writes a script that displays the third line of the file iacta
+README.md Writes a shell script that creates a file containing text in it
