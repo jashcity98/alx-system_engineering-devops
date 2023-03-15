@@ -1,1 +1,1 @@
-README.md Writes a shell script that creates a file containing text in it
+Writes Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it
